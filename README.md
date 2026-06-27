@@ -1,18 +1,27 @@
-# 🌤️ React Weather App
+# React Weather App
 
-A responsive weather application built using React and OpenWeather API.
+A simple Weather App built using React that allows users to search for any city and view the current weather information.
 
 ## Features
-- ✅ Search weather by city
-- ✅ Dynamic background images based on weather conditions
-- ✅ Temperature, humidity and wind information
-- ✅ Responsive design
-- ✅ Error handling
-- ✅ Enter key support
+
+* Search weather by city name
+* Display temperature
+* Show weather condition (Cloudy, Rainy, Clear, etc.)
+* Display humidity and wind speed
+* Dynamic weather icons/backgrounds
+* Responsive UI
 
 ## Technologies Used
-- React
-- JavaScript (ES6+)
-- CSS3
-- OpenWeather API
-- Vite
+
+* React
+* JavaScript
+* CSS
+* OpenWeather API
+
+## Live Demo
+
+react-weather-app-reegan.netlify.app
+
+## Author
+
+Reegan R
